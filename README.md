@@ -1,54 +1,38 @@
-# 📊 Análise de Segurança Pública – Roraima (2019–2024)
+📊 Projeto: Análise de Segurança Pública em Roraima (2019-2024)
+Este projeto tem como objetivo realizar uma análise exploratória dos dados de Mortes Violentas Intencionais (MVI) no estado de Roraima entre 2019 e 2024.
 
-Projeto de análise de dados reais de mortes violentas intencionais (MVI) no estado de Roraima, com foco em homicídios por município.
+Utilizamos dados reais fornecidos pela Polícia Civil de Roraima, com foco em:
 
----
+Leitura e tratamento de dados em Excel
 
-## 🔍 Objetivos
+Criação de um banco de dados SQLite com Python
 
-- Analisar os dados de MVI de 2019 a 2024
-- Identificar municípios com maiores índices de homicídio
-- Visualizar os dados em gráficos
-- Utilizar Python, Pandas, SQLite, Seaborn e Matplotlib
+Consulta de dados com SQL
 
----
+Visualização com gráficos (Seaborn/Matplotlib)
 
-## 🗂️ Fonte dos Dados
+▶️ Acesse o Notebook no Google Colab
 
-- Arquivo obtido do site oficial da **Polícia Civil de Roraima**
-- Formato: Excel (.xlsx)
+📁 Como usar
+Faça upload do arquivo Excel:
+MORTES VIOLENTAS INTENCIONAIS - 2019 A 2024 OK.xlsx
 
----
+Execute o notebook no Google Colab.
 
-## 📦 Tecnologias Utilizadas
+🧠 Tecnologias Utilizadas
+Python
 
-- Python 3
-- Google Colab
-- Pandas
-- SQLite3
-- Seaborn
-- Matplotlib
+Pandas
 
----
+SQLite3
 
-## 📈 Exemplo de Gráfico
+Matplotlib
 
-![Gráfico de homicídios](grafico.png)
+Seaborn
 
----
+Google Colab
 
-## 🚀 Como Executar
+📌 Fonte dos dados
+Polícia Civil de Roraima – Estatísticas de MVI
 
-1. Abra o notebook no [Google Colab](https://colab.research.google.com)
-2. Faça o upload do arquivo de dados `.xlsx`
-3. Execute todas as células
-4. Analise os gráficos e resultados!
-
----
-
-## 👮 Autor
-
-**Walber (Wal14ber)**  
-Policial e entusiasta em dados e tecnologia
-
----
+Feito com dedicação por Walber 👮‍♂️📈
